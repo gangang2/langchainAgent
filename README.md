@@ -1,6 +1,10 @@
+![image](https://github.com/user-attachments/assets/f67270d7-9168-4ddb-afa1-de2792d0a2f2)
+
+![image](https://github.com/user-attachments/assets/355a6f23-ca91-4fa6-84dc-0653a60a4225)
+
 这是由langchain实现的简易广告合作Demo，
 
-输入关键词，实现从微博上搜索关键词相关领域的博主，解析博主的个人信息，
+输入关键词 例如，实现从微博上搜索关键词相关领域的博主，解析博主的个人信息，
 
 获取合作邮箱后，发送合作邮件，全程由langchain Agent实现自动化。
 
